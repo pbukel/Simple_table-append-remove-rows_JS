@@ -1,0 +1,29 @@
+.inputas{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+ 
+}
+section{
+    display: flex;
+    gap: 10px;
+}
+
+table,th,td{
+    border:1px solid #F8C010;
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+    color: white;
+}
+table{
+    width:42%;
+    margin-top: 10px;
+    
+}
+th{
+    background: #F8C010;
+    color: black;
+}
+td{background-color: #312261;}
